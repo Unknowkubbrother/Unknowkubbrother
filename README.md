@@ -117,7 +117,6 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
    <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>   
-  <p align="left">
   <a href="https://lua.org/" target="_blank"> 
    <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 </a>  
