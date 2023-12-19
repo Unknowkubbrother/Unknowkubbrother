@@ -78,6 +78,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
 </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+</a> 
 </p>
 
 <p align="left">
