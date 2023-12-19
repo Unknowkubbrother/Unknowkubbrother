@@ -81,8 +81,11 @@
 </p>
 
 <p align="left">
+  <a href="https://vuejs.org/" target="_blank"> 
+   <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+</a>
 <a href="https://svelte.dev" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?logo=svelte&logoColor=white">
+   <img alt="svelite" src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?logo=svelte&logoColor=white">
 </a>
 <a href="https://expressjs.com" target="_blank"> 
    <img alt="Express.js" src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white">
