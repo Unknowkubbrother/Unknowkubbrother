@@ -32,7 +32,7 @@
 <p align="center">
 
 <p align="center">
-    <a href="https://www.unknowkubbrother.net">
+    <a href="https://unknowkubbrother.net">
         <img border="0" alt="Unknowkubbrother's Portfolio" src="https://img.icons8.com/?size=1x&id=63807&format=png">
     </a>
     <a href="https://www.instagram.com/n_nnat_48/">
