@@ -35,16 +35,16 @@
     <a href="https://unknowkubbrother.net">
         <img border="0" alt="Unknowkubbrother's Portfolio" src="https://img.icons8.com/?size=1x&id=63807&format=png">
     </a>
-    <a href="https://www.instagram.com/n_nnat_48/">
+    <a href="">
         <img border="0" alt="Unknowkubbrother's IG" src="https://img.icons8.com/?size=1x&id=32323&format=png"/>
     </a>
-    <a href="https://www.facebook.com/Natx0082/">
+    <a href="">
         <img border="0" alt="Unknowkubbrother's Facebook" src="https://img.icons8.com/?size=1x&id=118497&format=png"/>
     </a>
-    <a href="https://discord.gg/user/unknowkubbrother">
+    <a href="">
     <img border="0" alt="Unknowkubbrother" src="https://img.icons8.com/?size=1x&id=30998&format=png"/>
     </a>
-    <a href="mailto:natchnon654321@gmail.com">
+    <a href="">
         <img border="0" alt="Unknowkubbrother's Mail" src="https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png"/>
     </a>
 </p>
